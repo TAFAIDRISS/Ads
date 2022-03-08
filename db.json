@@ -1,0 +1,11 @@
+{
+"myapp":{
+"getAds":{
+"netWorkAds":"admob",
+"BannerAdmob": "",
+"InterAdmob": "",
+"BannerFacebook": "",
+"InterFacebook": ""
+}
+}
+}
