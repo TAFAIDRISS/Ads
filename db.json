@@ -3,11 +3,11 @@
   
 "json":{
   
-"ads":"apploving",
+"ads":"admob",
   
-"BannerAdmob": "ca-app-pub-9988521094839767/2331829267",
-"InterAdmob": "ca-app-pub-9988521094839767/7161484116",
-"NativeAdmob": "ca-app-pub-9988521094839767/5848402448",
+"BannerAdmob": "ca-app-pub-9988521094839767/4156240346",
+"InterAdmob": "ca-app-pub-9988521094839767/5087012785",
+"NativeAdmob": "ca-app-pub-9988521094839767/6016951078",
   
   "BannerApploving": "9ccba38eae7f963a",
   "IntersApploving": "d601363b20bf1e31",
